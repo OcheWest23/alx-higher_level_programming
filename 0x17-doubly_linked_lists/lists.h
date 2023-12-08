@@ -13,7 +13,6 @@
  * Description: doubly linked list node structure
  *
  */
-
 typedef struct dlistint_s
 {
     int n;
